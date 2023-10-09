@@ -53,11 +53,11 @@ To use this code, follow these steps:
 
    Example:
    ```python
-   model_outputs = classifier("i hate you")
+   model_outputs = classifier("Where are you now? ")
    print(model_outputs[0][0]['label'])
    ```
 
-   Replace `"i hate you"` with your own text for classification.
+   Replace `"where are you now?"` with your own text for classification.
 
 ## Contributing
 
