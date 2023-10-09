@@ -1,6 +1,13 @@
 
 # TEXT-CLASSIFICATION
 
+## Colab Notebook
+
+You can view and run the code in this project's Colab notebook by clicking the following link:
+
+- [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/120nwST4xFwt3Xxj2eoBjQEtcyUY3i1Vd?authuser=1#scrollTo=LZAYq5aktHJR)
+
+
 ## Description
 
 This code is designed for text classification using the Hugging Face Transformers library and the "go_emotions" dataset. It includes the following functionality:
