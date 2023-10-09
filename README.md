@@ -1,2 +1,0 @@
-# Outreach
-For school kids
