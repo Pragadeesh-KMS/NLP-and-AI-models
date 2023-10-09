@@ -1,7 +1,7 @@
 
 # Text Summarization with Hugging Face Transformers
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/120nwST4xFwt3Xxj2eoBjQEtcyUY3i1Vd?authuser=1#scrollTo=LZAYq5aktHJR)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ScT5B-DI1C01zxFGSSY6YHF62xVIWEv2?authuser=1#scrollTo=ZSB2BDs43RIx)
 
 Use the above link to see how the code works.
 
