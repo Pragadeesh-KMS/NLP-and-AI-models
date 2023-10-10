@@ -1,4 +1,4 @@
-```markdown
+
 # README for Stable Diffusion Pipeline
 
 This README provides an overview and instructions for using the Stable Diffusion Pipeline to generate images from text prompts using the "stabilityai/stable-diffusion-2-1-base" model. 
@@ -50,7 +50,7 @@ image = pipe(prompt).images[0]
 5. Save the generated image to a file (e.g., "3.png"):
 
 ```python
-image.save("3.png")
+image.save("output.png")
 ```
 
 ## Note
@@ -61,9 +61,3 @@ image.save("3.png")
 
 - Ensure you have proper permissions to write to the directory where you intend to save the generated image.
 
-Feel free to modify and extend this code to suit your specific needs and use cases.
-
-For more information, please refer to the documentation of the libraries used in this code.
-```
-
-This README provides a brief explanation of the code, installation instructions, and usage steps. You can add more details, explanations, or any additional information you think is necessary for users to understand and use your code effectively.
