@@ -59,14 +59,4 @@ To use this code, follow these steps:
 
    Replace `"where are you now?"` with your own text for classification.
 
-## Contributing
 
-If you'd like to contribute to this code or report any issues, please refer to the project's GitHub repository [link-to-repository](https://github.com/your-repo-link).
-
-## License
-
-This code is licensed under the [MIT License](LICENSE.txt).
-
----
-
-Feel free to customize this README file to include more specific information about your project, such as additional usage examples or explanations of the dataset and model used.
