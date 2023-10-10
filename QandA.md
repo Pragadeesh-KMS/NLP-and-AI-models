@@ -1,7 +1,7 @@
 
 # Question Answering with Hugging Face Transformers
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16rhSZtvo1Pn1YkSL4iyNSvBtHtVE7y1b?authuser=1#scrollTo=qcC7FPE380Ra)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16rhSZtvo1Pn1YkSL4iyNSvBtHtVE7y1b?usp=sharing)
 Use the above link to access the colab file.
 
 
