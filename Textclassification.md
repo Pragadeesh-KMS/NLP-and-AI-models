@@ -5,7 +5,7 @@
 
 You can view and run the code in this project's Colab notebook by clicking the following link:
 
-- [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/120nwST4xFwt3Xxj2eoBjQEtcyUY3i1Vd?authuser=1#scrollTo=LZAYq5aktHJR)
+- [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/120nwST4xFwt3Xxj2eoBjQEtcyUY3i1Vd?usp=sharing)
 
 
 ## Description
