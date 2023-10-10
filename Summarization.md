@@ -62,15 +62,3 @@ Before running this code, make sure you have the following prerequisites:
 ## Output
 
 The code will provide a summary of the input text based on the specified parameters.
-
-## Contributing
-
-If you'd like to contribute to this code or report any issues, please refer to the project's GitHub repository [link-to-repository](https://github.com/your-repo-link).
-
-## License
-
-This code is licensed under the [MIT License](LICENSE.txt).
-
----
-
-Feel free to customize this README to include more specific information about your project or any additional details you find relevant.
